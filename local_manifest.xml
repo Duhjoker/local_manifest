@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<project name="Duhjoker/android_device_lge_cv1" path="device/lge/cv1" remote="github" revision="cm-14.1" />
+
+ <project name="LG-SD4XX/android_vendor_lge_sd4xx-common" path="vendor/lge/sd4xx-common" remote="github" revision="cm-14.1-gpstest" />
+
+ <project name="Duhjoker/android_kernel_lge_cv1" path="kernel/lge/cv1" remote="github" revision="cm-14.1" />
+
+</manifest>
