@@ -7,6 +7,5 @@
 <project name="Duhjoker/android_kernel_lge_cv1" path="kernel/lge/cv1" remote="github" revision="cm-14.1" />
 <project name="Duhjoker/android_vendor_lge_common" path="vendor/lge/common" remote="github" revision="cm-14.1"/>
 <project name="Duhjoker/android_vendor_lge_cv1" path="vendor/lge/cv1" remote="github" revision="cm-14.1"/>
-<project name="Duhjoker/android_vendor_qcomm_audio_kernel" path="vendor/qcomm/audio-kernel" remote="github" revision="cm-14.1" />
 
 </manifest>
