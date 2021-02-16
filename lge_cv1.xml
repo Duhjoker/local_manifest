@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
-      <remote name="LineageOS" 
-            fetch="https://github.com/LineageOS/" 
-            revision="cm-14.1" />
-
        <remote name="Duhjoker" 
             fetch="https://github.com/Duhjoker/" 
             revision="cm-14.1" />
 
-    <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="cm-14.1"/> 
-    <project path="device/lge/cv1 " name="android_device_lge_cv1" remote="Duhjoker" />
-    <project path="device/lge/cv1-common " name="android_device_lge_cv1-common" remote="Duhjoker" />
-    <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-14.1" />
+    
+    <project path="device/lge/cv1" name="android_device_lge_cv1" remote="Duhjoker" />
+    <project path="device/lge/cv1-common" name="android_device_lge_cv1-common" remote="Duhjoker" />
     <project path="kernel/lge/cv1-common" name="android_kernel_lge_cv1-common" remote="Duhjoker" />
     <project path="vendor/lge/cv1" name="android_vendor_lge_cv1" remote="Duhjoker" />
     <project path="vendor/lge/cv1-common" name="android_vendor_lge_cv1-common" remote="Duhjoker" />
-    <project name="LineageOS/android_external_bson" path="external/bson" remote="github" revision="cm-14.1" />
+    
 </manifest>
